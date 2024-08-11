@@ -1,8 +1,8 @@
-###Customer Support AI App
+### Customer Support AI App
 
-##Welcome to the Customer Support AI App! This application enhances customer service by providing intelligent, automated responses to common queries. It integrates seamlessly with your existing support platforms to improve efficiency and customer satisfaction.
+## Welcome to the Customer Support AI App! This application enhances customer service by providing intelligent, automated responses to common queries. It integrates seamlessly with your existing support platforms to improve efficiency and customer satisfaction.
 
-###Features
+### Features
 Automated Responses: AI-powered responses to frequent customer questions.
 Seamless Integration: Connects with various customer support platforms.
 Real-time Updates: Continuous improvement of response accuracy through machine learning.
@@ -10,16 +10,16 @@ Multi-Channel Support: Manage inquiries from multiple channels, including chat, 
 Analytics Dashboard: Insightful metrics on customer interactions and AI performance.
 Dark Mode: Switch between light and dark modes for a comfortable user experience.
 
-###Getting Started
+### Getting Started
 
 Prerequisites
 Node.js (version 14 or higher)
 OpenAI API Key
 Firebase account (optional, for additional customer data storage)
  
-###Installation
+### Installation
 
-##Clone the repository:
+## Clone the repository:
 
 bash
 Copy code
@@ -52,7 +52,7 @@ Open your browser:
 
 Navigate to http://localhost:3000 to start using the app.
 
-###Usage
+### Usage
 Send a Message:
 
 Type your message into the input field and press Enter or click "Send".
@@ -66,7 +66,7 @@ Toggle Dark Mode:
 
 Use the Dark Mode switch to toggle between light and dark themes.
 
-###Skills Used
+### Skills Used
 
 JavaScript 
 React Next.js 
