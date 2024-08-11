@@ -36,5 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # CustomerSupportAI
 
+https://cuetomersupportai-git-main-gio-s-projects.vercel.app/
+
 ![image](https://github.com/user-attachments/assets/bec8c3b5-65b5-43fa-aa9d-35bdc901a74a)
 
